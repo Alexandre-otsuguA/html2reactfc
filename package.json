@@ -1,6 +1,7 @@
 {
   "name": "html2reactfc",
   "version": "1.0.0",
+  "private": true,
   "main": "src/index.js",
   "dependencies": {
     "htmltojsx": "^0.3.0"
